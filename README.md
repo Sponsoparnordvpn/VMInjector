@@ -12,7 +12,9 @@ Download at :
 
 # Manual installation 🔌
 
-To install Land SE manually you need the following packages : 
+To install Land SE manually you first have to install python on your compunter and install the following packages :
+
 ```py
-pip
+pip install -r requirements.txt
 ```
+Then, run the main.py file and enjoy !
