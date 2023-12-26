@@ -1,0 +1,17 @@
+bardolph            
+bitarray            
+bitstring           
+certifi             
+charset-normalizer  
+idna                
+ifaddr              
+lifxlan             
+pycryptodome        
+pygments            
+requests            
+tkcode              
+tkinterasync        
+tkinterhtml         
+tkintermodernthemes 
+urllib3             
+websockets          
