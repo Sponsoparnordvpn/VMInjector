@@ -21,8 +21,6 @@ Then, run the main.py file content.
 
 When the GUI show up, press on attach and go to your virtual machine to execute this : ( Will work on hydrogen etc.. )
 ```lua
-getkey()
-
 getgenv().key = "land0f0cdbf266e29d3adfae9da32279ee0492ff520340580fb6da99057085b92c5a"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sponsoparnordvpn/VMInjector/main/init_executor.txt",true))()
