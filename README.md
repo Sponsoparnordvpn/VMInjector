@@ -33,3 +33,5 @@ You need to pass a 1 checkpoint linkvertise key system, and once it's done, put 
 The key passed, multiples warns / prints should appear : Congratulations, you did it !
 
 Now enter your code in the code editor and press execute !!
+
+Note : If it doesnt work try running it on a code IDE or just wait for Land LLC to release their c++ executor.
